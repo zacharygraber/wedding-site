@@ -1,2 +1,4 @@
 mkdocs-venv/*
 mkdocs-venv
+site/*
+site
